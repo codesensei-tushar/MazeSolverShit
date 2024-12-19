@@ -1,6 +1,6 @@
 # MazeSolver
 
-This is Arduino UNO based maze solver, based on Right wall Following Algorithm making sure it will solve any complex maze, with inntegrated PID controller to make sure the bot is aligned to centre. 
+This is Arduino UNO based maze solver, based on Right Wall Following Algorithm making it compatible for any complex maze, with integrated PID controller to make sure the bot is aligned to centre of the path. 
 
 # Steps to use it:
 
