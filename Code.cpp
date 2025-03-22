@@ -14,8 +14,8 @@ int FBLTTime =790;
 int goFowdTime = 25;
 int lExtspeed = 10;
 
-double threshold = 60; //side threshold value for deciding turn
-double fThreshold = 40;  //forward threshold value for deciding turn
+double threshold = 0; //initial threshold value for deciding turn
+double fThreshold = 0; 
 int outLowLim = 100;
 int outHigLim = 225;
 
