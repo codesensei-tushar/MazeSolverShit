@@ -1,5 +1,7 @@
 # MazeSolver Project
 
+> **Note:** This project was originally developed as a so called Foundation of Design Practicum(FDP) course project in 2023.
+
 ## Hardware Requirements
 
 1. Arduino UNO board
